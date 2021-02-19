@@ -1,0 +1,1 @@
+# Winner-gets-all
