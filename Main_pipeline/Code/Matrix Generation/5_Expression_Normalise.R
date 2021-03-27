@@ -2,13 +2,15 @@ library(dplyr)
 library(Seurat)
 library(patchwork)
 
-##########################################################################
+###############READ CSV FILE AND CREATE SEURAT OBJECT##############
 ex = read.csv('expression-for-correlation.csv', header = TRUE, row.names = 'X')
 ext = t(ex)
 
 exp <- CreateSeuratObject(counts = ext, project = "exp")
 exp
 
+
+################ NORMALIZE DATA#########################
 
 
 exp <- NormalizeData(exp, normalization.method = "LogNormalize", scale.factor = 10000)
