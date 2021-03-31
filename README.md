@@ -1,4 +1,4 @@
-# WGA
+# Winners-Takes-All
 
 ## Workflow
 
