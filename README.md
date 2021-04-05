@@ -2,4 +2,4 @@
 
 ## Workflow
 
-<img src="Main_pipeline/Images/Asset 1.png">
+<img src="Main_pipeline/Images/graphical_abstract.png">
