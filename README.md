@@ -1,6 +1,6 @@
-# Winners-Takes-All
+# Reverse Cell Trajectory (RCT)
 
-## Workflow
+## A cellular backtracking method
 
 <img src="Main_pipeline/Images/GraphicalAbstract.png">
 
