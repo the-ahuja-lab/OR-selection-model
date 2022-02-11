@@ -1,6 +1,6 @@
 # Reverse Cell Trajectory (RCT)
 
-## A cellular backtracking method
+## A Olfactory neuronal backtracking method
 
 <img src="Main_pipeline/Images/GraphicalAbstract.png">
 
