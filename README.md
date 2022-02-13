@@ -1,4 +1,4 @@
-# Reverse Cell Trajectory (RCT)
+# Reverse Cell Tracking (RCT)
 
 ## A Olfactory neuronal backtracking method
 
